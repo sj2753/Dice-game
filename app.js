@@ -10,7 +10,7 @@ GAME RULES:
 */
 
 var scores, roundScore, activePlayer, gamePlaying;
-
+//initialization function
 init();
 
 
